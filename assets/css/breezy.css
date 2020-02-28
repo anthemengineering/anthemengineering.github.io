@@ -1,0 +1,9 @@
+@charset "UTF-8";
+
+#breezyOpeningsContainer h2 {
+    color: #FFF;
+    font-size: larger;
+}
+
+#breezyOpeningsContainer li { list-style: none; }
+#breezyOpeningsContainer button { display: none; }
