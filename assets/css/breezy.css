@@ -5,5 +5,9 @@
     font-size: larger;
 }
 
-#bzOpeningsContainer li { list-style: none; }
+#bzOpeningsContainer li {
+    list-style-type: none;
+    background: none;
+}
+
 #bzOpeningsContainer button { display: none; }
